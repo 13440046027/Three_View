@@ -11,7 +11,6 @@ import * as THREE from "three";
 import Stats from "three/addons/libs/stats.module.js";
 import { GLTFLoader } from "three/addons/loaders/GLTFLoader.js";
 import { KTX2Loader } from "three/addons/loaders/KTX2Loader.js";
-import { DRACOLoader } from "three/addons/loaders/DRACOLoader.js";
 import { MeshoptDecoder } from "three/addons/libs/meshopt_decoder.module.js";
 import { EXRLoader } from "three/addons/loaders/EXRLoader.js";
 import { RoomEnvironment } from "three/addons/environments/RoomEnvironment.js";
@@ -733,7 +732,6 @@ function Index() {
   import Stats from "three/addons/libs/stats.module.js";
   import { GLTFLoader } from "three/addons/loaders/GLTFLoader.js";
   import { KTX2Loader } from "three/addons/loaders/KTX2Loader.js";
-  import { DRACOLoader } from "three/addons/loaders/DRACOLoader.js";
   import { MeshoptDecoder } from "three/addons/libs/meshopt_decoder.module.js";
   import { EXRLoader } from "three/addons/loaders/EXRLoader.js";
   import { RoomEnvironment } from "three/addons/environments/RoomEnvironment.js";
