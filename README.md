@@ -1,4 +1,4 @@
-# three_viewr 主要用three模型查看，保存当前状态
+# three_viewr three模型查看器，保存当前状态
   <a href="#">
     <img src="https://github.com/actinm/Three_View/blob/main/public/three_view.png" height="100">
   </a>
